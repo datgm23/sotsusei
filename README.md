@@ -28,7 +28,7 @@
 - 10週 試作版の共有会
 
 ### 休み中成果と進行中のもの
-- [Brackes Game Jam 2024.1](https://itch.io/jam/brackeys-11/results)にJygain's Doorを投稿。総合評価で6位
+- [Brackes Game Jam 2024.1](https://itch.io/jam/brackeys-11/results)にJygain's Doorを投稿。総合6位
 - IMPRESS NextPublishing向けの原稿を入稿。校正待ち
 - Godot用の2Dプラットフォーマープロジェクトを進行中。ノードを並べて処理が作れる仕組みを構築中。これをもとに[技術書典](https://techbookfest.org/)で出版する書籍を執筆予定
 
