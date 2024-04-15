@@ -27,10 +27,14 @@
 - 8-9週 仕上げと共有会準備
 - 10週 試作版の共有会
 
+### 休み中成果と進行中のもの
+- [Brackes Game Jam 2024.1](https://itch.io/jam/brackeys-11/results)にJygain's Doorを投稿。総合評価で6位
+- IMPRESS NextPublishing向けの原稿を入稿。校正待ち
+- Godot用の2Dプラットフォーマープロジェクトを進行中。ノードを並べて処理が作れる仕組みを構築中。これをもとに[技術書典](https://techbookfest.org/)で出版する書籍を執筆予定
+
 ### 予定
 - 1年最後の振り返り
-- 企画案を
-- [企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)のまとめと共有
+- 企画案を各自で[企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)にまとめる
 - Google Meetで進捗の共有
 - 各自で企画や検討事項を持ち帰って、修正やアイディアの追加をして2週目はより具体化を進める
 
