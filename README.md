@@ -35,6 +35,7 @@
 ### 予定
 - 1年最後の振り返り
 - 企画案を各自で[企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)にまとめる
+  - 時間をかけても万全になることはない。締め切りまでのベストのもので勝負する
 - Google Meetで進捗の共有
 - 各自で企画や検討事項を持ち帰って、修正やアイディアの追加をして2週目はより具体化を進める
 
