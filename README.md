@@ -33,7 +33,7 @@
 - Godot用の2Dプラットフォーマープロジェクトを進行中。ノードを並べて処理が作れる仕組みを構築中。これをもとに[技術書典](https://techbookfest.org/)で出版する書籍を執筆予定
 
 ### 予定2日目(4/18)
-- 企画案を各自で[企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)にまとめる
+- 企画案を各自でGoogleドキュメント、あるいは[企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)にまとめる
   - 大きなものや内容が不明瞭でイメージできないような企画にしないこと
   - 時間をかけても万全になることはない。締め切りまでのベストのもので勝負すること
   - 作業した成果を企業などに説明できそうな要素を含める
