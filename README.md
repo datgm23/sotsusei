@@ -32,7 +32,7 @@
 ## 2, 3週目(4/22, 4/30, 5/2, 5/9)
 
 ### 話題
-- []()
+- [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
 
 ### 1日目予定(4/22)
 - 前回と同様、企画案をGoogleドキュメント、あるいは[企画概要書](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)にまとめる
