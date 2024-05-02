@@ -6,6 +6,8 @@
 - [Slack](https://datgm23.slack.com/)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)
 - [ゲームプログラム2022年度生 卒業制作作品](https://datgm22.github.io/works/)
+- [Voxelorer Birdひよこ編 リポジトリー](https://github.com/am1tanaka/VBirdHiyoko)
+
 
 ## 1年間の日程
 
