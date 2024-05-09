@@ -43,10 +43,8 @@
 
 ### 5/9
 
-- 画面レイアウト
-- 開発する要素のリストアップ
-- 要求定義
-- ビジュアルモック
+- 画面レイアウト（ビジュアルモック）
+- [開発する要素のリストアップと要求定義](https://docs.google.com/document/d/1CTjGfwQarZQFoIe_6nsC3SF49CQGPJT3-XkUpW1PQy4/edit?usp=sharing)
 - 開発環境の選定
 
 2コマ目開始時に、チームの調整。
