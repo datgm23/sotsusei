@@ -36,8 +36,9 @@
 ## 5-7週目(5/21, 23, 28, 30, 6/4, 6/6)
 
 ### 話題
-- [色をゲームに活用する例](https://x.com/o8que/status/1791828091536605484)
 - [デジゲー博. イベントスタッフ募集](https://x.com/DigiGameExpo/status/1791748043680964688)
+- [色をゲームに活用する例](https://x.com/o8que/status/1791828091536605484)
+- プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
 ### 5/21, 23予定
 - プロジェクトと画面レイアウトの作成
