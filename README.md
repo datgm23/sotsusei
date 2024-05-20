@@ -37,6 +37,7 @@
 
 ### 話題
 - [デジゲー博. イベントスタッフ募集](https://x.com/DigiGameExpo/status/1791748043680964688)
+- [東京ゲームダンジョン外伝](https://tokyogamedungeon.com/) 申し込み 5/25(土)。開催 7/14(日)
 - [色をゲームに活用する例](https://x.com/o8que/status/1791828091536605484)
 - プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
