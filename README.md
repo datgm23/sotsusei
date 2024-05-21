@@ -41,13 +41,18 @@
 - [色をゲームに活用する例](https://x.com/o8que/status/1791828091536605484)
 - プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
-### 5/21, 23予定
+### 5/21
 - プロジェクトと画面レイアウトの作成
 - ゲームループの作成
 - 素材の収集
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+
+### 5/23予定
+- 設計演習
+  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/) 移動処理のクラス設計から
+
 
 ### 5/28, 30予定
 - 作業リストの作成
