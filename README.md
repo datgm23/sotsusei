@@ -45,6 +45,9 @@
 - プロジェクトと画面レイアウトの作成
 - ゲームループの作成
 - 素材の収集
+- 設計演習
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
 
 ### 5/28, 30予定
 - 作業リストの作成
