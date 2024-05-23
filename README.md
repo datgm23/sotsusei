@@ -49,10 +49,12 @@
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
 
-### 5/23予定
+### 5/23
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+    - データの送受信システムのクラス設計
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/) 移動処理のクラス設計から
+    - 移動システムのクラス設計
 
 
 ### 5/28, 30予定
