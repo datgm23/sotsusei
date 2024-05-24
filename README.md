@@ -63,7 +63,8 @@
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データ送受クラスのひな型と、最初のテストができたので、テストをもとに、実装を進める
-  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/) 移動処理のクラス設計から
+  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+    - キャラのプレハブ作成から
 
 ### 6/4, 6/6予定
 - チーム作業
