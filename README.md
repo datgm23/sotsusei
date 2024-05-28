@@ -61,6 +61,7 @@
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データ送受クラスのひな型と最初のテストができたので、テストをもとに実装を進める
+    - [マルチプレイヤーボードゲームのリポジトリー](https://github.com/datgm24/BoardGameHost) 講義時間のみ公開。これをフォークしてから、クローン
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
     - プレイヤーのプレハブ作成から、プレイヤーの移動のテストの実装
     - CharacterCasterのテストから
