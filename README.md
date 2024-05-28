@@ -62,8 +62,9 @@
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データ送受クラスのひな型と最初のテストができたので、テストをもとに実装を進める
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
-    - プレイヤーのプレハブ作成から
-    - [Unityのテストフレームワークの使用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
+    - プレイヤーのプレハブ作成から、プレイヤーの移動のテストの実装
+    - CharacterCasterのテストから
+    - 参考 [Unityのテストフレームワークの使用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - チーム作業
 
 ### 6/4, 6/6予定
