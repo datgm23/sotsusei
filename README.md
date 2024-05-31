@@ -47,13 +47,13 @@
 - 素材の収集
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
-  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
 
 ### 5/23
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データの送受信システムのクラス設計
-  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/) 移動処理のクラス設計から
+  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/) 移動処理のクラス設計から
     - 移動システムのクラス設計
 
 
@@ -62,7 +62,7 @@
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データ送受クラスのひな型と最初のテストができたので、テストをもとに実装を進める
     - [マルチプレイヤーボードゲームのリポジトリー](https://github.com/datgm24/BoardGameHost) 講義時間のみ公開。これをフォークしてから、クローン
-  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
     - プレイヤーのプレハブ作成から、プレイヤーの移動のテストの実装
     - CharacterCasterのテストから
     - 参考 [Unityのテストフレームワークの使用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
