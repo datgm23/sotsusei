@@ -41,6 +41,14 @@
 - [色をゲームに活用する例](https://x.com/o8que/status/1791828091536605484)
 - プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
+### 6/4, 6/6予定
+- [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - コマンドシステム作成
+  - 進捗を確認して、進んでいる方の完成を目指す
+- [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
+  - 周囲の情報収集ができたので、移動を実装
+    - 参考 [桜井政博のゲーム作るには. コンピュータープレイヤー](https://youtu.be/VkTgBbBfc_E)
+
 ### 5/21
 - プロジェクトと画面レイアウトの作成
 - ゲームループの作成
@@ -57,7 +65,7 @@
     - 移動システムのクラス設計
 
 
-### 5/28, 30予定
+### 5/28, 30
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - データ送受クラスのひな型と最初のテストができたので、テストをもとに実装を進める
@@ -68,8 +76,6 @@
     - 参考 [Unityのテストフレームワークの使用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - チーム作業
 
-### 6/4, 6/6予定
-- チーム作業
 
 
 ## 3, 4週目（5/9, 14, 16）
