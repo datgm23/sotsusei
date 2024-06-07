@@ -60,22 +60,6 @@
   - 周囲の情報収集ができたので、移動を実装
     - 参考 [桜井政博のゲーム作るには. コンピュータープレイヤー](https://youtu.be/VkTgBbBfc_E)
 
-### 5/21
-- プロジェクトと画面レイアウトの作成
-- ゲームループの作成
-- 素材の収集
-- 設計演習
-  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
-  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
-
-### 5/23
-- 設計演習
-  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
-    - データの送受信システムのクラス設計
-  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/) 移動処理のクラス設計から
-    - 移動システムのクラス設計
-
-
 ### 5/28, 30
 - 設計演習
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
@@ -87,6 +71,20 @@
     - 参考 [Unityのテストフレームワークの使用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - チーム作業
 
+### 5/23
+- 設計演習
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+    - データの送受信システムのクラス設計
+  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/) 移動処理のクラス設計から
+    - 移動システムのクラス設計
+
+### 5/21
+- プロジェクトと画面レイアウトの作成
+- ゲームループの作成
+- 素材の収集
+- 設計演習
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
 
 
 ## 3, 4週目（5/9, 14, 16）
