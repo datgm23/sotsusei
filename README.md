@@ -41,6 +41,7 @@
   - 進捗の確認をして、進められそうなものを選ぶ
   - 各進行の詳細の検討と仕様の決定
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/edit?usp=sharing)
+  - ゲームプレイの進行から
 - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
   - [x] 斜面の当たり判定の調整
   - [x] 水平移動の接触処理（壁、段差、斜面）
