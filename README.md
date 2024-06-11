@@ -40,9 +40,11 @@
 - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - 進捗の確認をして、進められそうなものを選ぶ
   - 各進行の詳細の検討と仕様の決定
+  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/edit?usp=sharing)
 - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
   - 斜面の当たり判定の調整
   - 水平移動の接触処理（壁、段差、斜面）
+
 
 ## 5-7週目(5/21, 23, 28, 30, 6/4, 6/6)
 
