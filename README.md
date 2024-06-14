@@ -8,6 +8,9 @@
 - [ゲームプログラム2022年度生 卒業制作作品](https://datgm22.github.io/works/)
 - [Voxelorer Birdひよこ編 リポジトリー](https://github.com/am1tanaka/VBirdHiyoko)
 
+## リンク
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 
 ## 1年間の日程
 
