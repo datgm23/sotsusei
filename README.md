@@ -36,6 +36,17 @@
 - パッチ
   - 不具合などあれば(最後)
 
+## 9週目(6/18, 20)
+
+### 予定
+
+- [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
+  - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+  - [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
+  - [Platformer2DDev](https://github.com/datgm24/Platformer2DDev)を開く
+- [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - 処理内容やデータまで踏み込んで、仕様の精度を上げる
+
 ## 8週目(6/11, 6/13)
 
 ### 内容
