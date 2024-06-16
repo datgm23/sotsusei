@@ -40,6 +40,10 @@
 
 ### 予定
 
+- 磁石　素材発注
+  - 発注資料例
+    - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
+    - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
   - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
   - [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
