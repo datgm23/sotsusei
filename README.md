@@ -36,6 +36,12 @@
 - パッチ
   - 不具合などあれば(最後)
 
+## 参考資料
+- 発注資料例
+  - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
+  - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
+
+
 ## 9週目(6/18, 20)
 
 ### 予定
