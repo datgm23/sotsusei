@@ -47,6 +47,7 @@
 ### 予定
 
 - [進捗発表会準備](https://docs.google.com/document/d/16G6ZGR7bDnU_-lhLYUNz3FSY8xTAasM4g59XDumIh0w/)
+  - [発表スライド例](https://docs.google.com/presentation/d/1ItUeOcZhKl0sInTnGMTK3WFUBhP48yfWYhIhUWJ5k4A/)
 - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
   - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
   - [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
