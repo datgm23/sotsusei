@@ -42,9 +42,26 @@
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
 
-## 9週目(6/18, 20)
+## 10週目(6/25, 27)
+
+<!--
+### 話題
+- [Godotでゆるっと！ゲーム制作祭](https://progsha.org/gygm/)
+-->
 
 ### 予定
+
+- [進捗発表会準備](https://docs.google.com/document/d/16G6ZGR7bDnU_-lhLYUNz3FSY8xTAasM4g59XDumIh0w/)
+  - [発表スライド例](https://docs.google.com/presentation/d/1ItUeOcZhKl0sInTnGMTK3WFUBhP48yfWYhIhUWJ5k4A/)
+
+<!--
+- 1チームあたり、準備から交代まで10分（発表5分程度、準備と質疑応答と撤収5分)
+-->
+
+
+## 9週目(6/18, 20)
+
+### 内容
 
 - [進捗発表会準備](https://docs.google.com/document/d/16G6ZGR7bDnU_-lhLYUNz3FSY8xTAasM4g59XDumIh0w/)
   - [発表スライド例](https://docs.google.com/presentation/d/1ItUeOcZhKl0sInTnGMTK3WFUBhP48yfWYhIhUWJ5k4A/)
