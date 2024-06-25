@@ -52,11 +52,9 @@
 ### 予定
 
 - [進捗発表会準備](https://docs.google.com/document/d/16G6ZGR7bDnU_-lhLYUNz3FSY8xTAasM4g59XDumIh0w/)
+  - 資料を、`X:\2024年\ゲーム学科\gp2\進捗報告会`へ
   - [発表スライド例](https://docs.google.com/presentation/d/1ItUeOcZhKl0sInTnGMTK3WFUBhP48yfWYhIhUWJ5k4A/)
-
-<!--
 - 1チームあたり、準備から交代まで10分（発表5分程度、準備と質疑応答と撤収5分)
--->
 
 
 ## 9週目(6/18, 20)
