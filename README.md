@@ -44,13 +44,15 @@
 
 ## 10週目(6/25, 27)
 
-<!--
 ### 話題
 - [Godotでゆるっと！ゲーム制作祭](https://progsha.org/gygm/)
--->
 
-### 予定
+### 予定 6/27
+- UnityプロジェクトをGitHubにprivateでパブリッシュして、教員に共有する
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- 1コマ1作品を目安に、レビューと改善点を示す
 
+### 6/25
 - [進捗発表会準備](https://docs.google.com/document/d/16G6ZGR7bDnU_-lhLYUNz3FSY8xTAasM4g59XDumIh0w/)
   - 資料を、`X:\2024年\ゲーム学科\gp2\進捗報告会`へ
   - [発表スライド例](https://docs.google.com/presentation/d/1ItUeOcZhKl0sInTnGMTK3WFUBhP48yfWYhIhUWJ5k4A/)
