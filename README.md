@@ -41,13 +41,27 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 11週目(7/2, 4)
+
+- [感想の記入先](https://docs.google.com/document/d/12BILBtViNBkPFcqLOkrr6qqHZZKVvBuaGW7E2V8bN38/edit?usp=sharing)
+
+### 予定
+
+- 1コマ1作品を目安に、レビューと改善点を示す
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [カラーチェンジャーメモ](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+  - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+
+
 
 ## 10週目(6/25, 27)
 
 ### 話題
 - [Godotでゆるっと！ゲーム制作祭](https://progsha.org/gygm/)
 
-### 予定 6/27
+### 内容 6/27
 - UnityプロジェクトをGitHubにprivateでパブリッシュして、教員に共有する
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - 1コマ1作品を目安に、レビューと改善点を示す
