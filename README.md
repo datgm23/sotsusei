@@ -41,7 +41,7 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 12週目(7/2, 4, 9, 11)
+## 11, 12週目(7/2, 4, 9, 11)
 
 - [感想の記入先](https://docs.google.com/document/d/12BILBtViNBkPFcqLOkrr6qqHZZKVvBuaGW7E2V8bN38/edit?usp=sharing)
 
