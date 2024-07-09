@@ -47,7 +47,7 @@
 
 ### 予定
 
-- 7/11 1コマ目　絵のオーダー資料をまとめる
+- 7/11 1コマ目　絵のオーダー資料の様子を確認。できていたら打ち合わせ。まだなら来週火曜日に
 - 1コマ1作品を目安に、レビューと改善点を示す
   - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
