@@ -41,11 +41,51 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 前期課題（ゲームプログラミング共通）
+
+1. 前期の成果をGoogleドキュメントでレポートにまとめて、URLを共有して提出する
+2. 素材の発注
+
+- 成果の例
+  - 卒業制作の制作物
+  - paizaの取得ランク
+  - インターンの制作物、活動報告
+  - 調査した技術のブログ
+- レポートの要件
+  - 技術ブログはブログのURL。それ以外は、Googleドキュメントで1ページ以上
+  - ゲーム画面やランク表示のスクリーンショットなど、成果内容がわかる画像を1枚以上貼り付ける
+    - インターンの制作物などの共有が許可されていないものは、内容の記述のみでよい
+  - 成果についての概要
+    - ゲーム
+      - ゲームの概要、操作説明、ルール、使用アセットリスト、チーム制作ならチームメンバーと各自の担当部分
+    - paiza
+      - 名前とランクが表示されているスクリーンショット
+      - 正解した問題のリスト(マイページの評価一覧)。5問以上正解している場合は、上位のランクのものを5問
+      - 解いた問題について、問題内容と、解いた考え方を箇条書きでまとめる
+    - インターンの報告
+      - 企業名、期間、やったことの概要
+  - 技術ブログ
+    - プログラムの技術に関するブログのみ。今回はそれ以外の話題は除外
+
+## 13週目(7/16, 18)
+
+### 予定
+- 前期課題の説明
+- 素材の発注資料の確認
+- 進捗確認
+- レビューと改善点
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - [カラーチェンジャーメモ](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+  - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  
+
 ## 11, 12週目(7/2, 4, 9, 11)
 
 - [感想の記入先](https://docs.google.com/document/d/12BILBtViNBkPFcqLOkrr6qqHZZKVvBuaGW7E2V8bN38/edit?usp=sharing)
 
-### 予定
+### 内容
 
 - 7/11 1コマ目　絵のオーダー資料の様子を確認。できていたら打ち合わせ。まだなら来週火曜日に
 - 1コマ1作品を目安に、レビューと改善点を示す
