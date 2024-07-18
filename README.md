@@ -12,6 +12,13 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 
+### よけとる for Unity
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit#heading=h.mjatj7c2eklf)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/edit#heading=h.x9yaoexbl5qg)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/edit#heading=h.25sv726tc2lz)
+- [04内積の利用](https://docs.google.com/document/d/1xJZQYe3iTmJrMh4GcMJcK34LwG7NU9IXZJS2eH9_E9I/edit#heading=h.25sv726tc2lz)
+
 ## 1年間の日程
 
 |期間|内容|
