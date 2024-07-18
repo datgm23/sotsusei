@@ -74,8 +74,6 @@
 ## 13週目(7/16, 18)
 
 ### 予定
-- 前期課題の説明
-- 素材の発注資料の確認
 - 進捗確認
 - レビューと改善点
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
@@ -83,7 +81,11 @@
   - [カラーチェンジャーメモ](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
   - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
-  
+
+### 7/16
+- 前期課題の説明
+- 素材の発注資料の確認
+
 
 ## 11, 12週目(7/2, 4, 9, 11)
 
