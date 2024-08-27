@@ -48,6 +48,14 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 14週目(8/29, 9/2)
+
+### 予定
+
+- 成果の共有
+- 素材の発注資料の作成
+- 成果レポートの作成と提出
+
 ## 前期課題（卒業制作、ゲームプログラミング共通）
 
 1. 前期の成果をGoogleドキュメントでレポートにまとめて、URLを共有して提出する : 提出日 9/3(火)
@@ -80,7 +88,7 @@
 
 ## 13週目(7/16, 18)
 
-### 予定
+### 内容
 - 進捗確認
 - レビューと改善点
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
