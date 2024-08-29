@@ -53,6 +53,7 @@
 ### 予定
 
 - 成果の共有
+  - [メモ](https://docs.google.com/document/d/1GoVTDy1hKryHXfdmxDUANhrCVHzLr5p32d7-T7nuVoo/)
 - 素材の発注資料の作成
 - 成果レポートの作成と提出
 
