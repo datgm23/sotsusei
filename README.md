@@ -48,9 +48,15 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 14週目(8/29, 9/3)
+## 15週目(9/5, 10)
 
 ### 予定
+
+- DATフェスタに向けた作業
+
+## 14週目(8/29, 9/3)
+
+### 内容
 
 - 成果の共有
   - [メモ](https://docs.google.com/document/d/1GoVTDy1hKryHXfdmxDUANhrCVHzLr5p32d7-T7nuVoo/)
