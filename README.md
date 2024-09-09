@@ -52,7 +52,12 @@
 
 ### 予定
 
-- DATフェスタに向けた作業
+- DATフェスタに向けた打ち合わせと作業
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+    - プレイヤー、攻撃、敵
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+
 
 ## 14週目(8/29, 9/3)
 
