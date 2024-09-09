@@ -50,6 +50,10 @@
 
 ## 15週目(9/5, 10)
 
+### 話題
+
+- [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12)
+
 ### 予定
 
 - DATフェスタに向けた打ち合わせと作業
