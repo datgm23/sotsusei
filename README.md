@@ -48,13 +48,32 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期1週目
+
+### 予定
+
+- すい～つ
+  - 弾を統合して、ステージ作成
+  - タイトル、ゲームオーバー、クリア、エンディングの検討
+- お金くれ
+  - 統合して、まとめる
+- スゴロク
+  - 進捗の確認と、完成に向けた作業の打ち合わせ
+  - 作り方がわからないところのリストアップ
+- 瑠璃港
+  - 操作とアニメができるものを目指す
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+---
+
 ## 15週目(9/5, 10)
 
 ### 話題
 
 - [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12)
 
-### 予定
+### 話題
 
 - DATフェスタに向けた打ち合わせと作業
   - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
