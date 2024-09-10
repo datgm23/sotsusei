@@ -60,6 +60,7 @@
   - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
     - プレイヤー、攻撃、敵
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+    - サイコロのモデル　`X:\2024年\ゲーム学科\gp2\Dise_Project\scenes\2024_0830.mb`
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
 
 
