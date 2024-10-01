@@ -55,11 +55,14 @@
 - すい～つ
   - 弾を統合して、ステージ作成
   - タイトル、ゲームオーバー、クリア、エンディングの検討
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
 - お金くれ
   - 統合して、まとめる
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
 - スゴロク
   - 進捗の確認と、完成に向けた作業の打ち合わせ
   - 作り方がわからないところのリストアップ
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
 - 瑠璃港
   - 操作とアニメができるものを目指す
 - その他
