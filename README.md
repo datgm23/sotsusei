@@ -66,6 +66,7 @@
 - 瑠璃港
   - 操作とアニメができるものを目指す
   - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+- Wolf Editor戦闘ゲーム
 - その他
   - 進捗を確認して、展示できそうなものは展示
 
