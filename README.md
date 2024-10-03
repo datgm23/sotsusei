@@ -50,6 +50,10 @@
 
 ## 後期1週目
 
+### 話題
+
+- [サイコロの出目を求める](https://docs.google.com/document/d/117MuXlEfOzy9SioI7VEwpTy6jL6sMl67zXRlFZf4uCo/)
+
 ### 予定
 
 - すい～つ
