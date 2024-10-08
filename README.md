@@ -48,13 +48,33 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期2週目
+
+### 予定
+- すい～つ
+  - 残りの作業の確認と作業の割り振り
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+- スゴロク
+  - Photonのターン管理機能に、スゴロクの処理をあてはめる
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+- お金くれ
+  - 統合して、まとめる
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+- 瑠璃港
+  - 操作とアニメができるものを目指す
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+
 ## 後期1週目
 
 ### 話題
 
 - [サイコロの出目を求める](https://docs.google.com/document/d/117MuXlEfOzy9SioI7VEwpTy6jL6sMl67zXRlFZf4uCo/)
 
-### 予定
+### 内容
 
 - すい～つ
   - 弾を統合して、ステージ作成
