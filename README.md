@@ -65,7 +65,9 @@
   - Chapter1を展示
 - 瑠璃港
   - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
-  - 操作とアニメができるものを目指す
+  - 操作とアニメが入っている
+  - 攻撃可能
+  - できるところまで進める
 - お金くれ
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
   - ネット対応。Photon Realtime用の送受信クラスの作成
