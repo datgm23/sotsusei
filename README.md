@@ -58,15 +58,20 @@
 - スゴロク
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
   - 不具合の解消
-- お金くれ
-  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
-  - ネット対応。Photon Realtime用の送受信クラスの作成
+- 対戦FPS
+  - 操作、ショット、勝敗判定が入っている
+  - 展示ができるように調整
+- Wolf Editor戦闘ゲーム
+  - Chapter1を展示
 - 瑠璃港
   - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
   - 操作とアニメができるものを目指す
-- Wolf Editor戦闘ゲーム
-- その他
-  - 進捗を確認して、展示できそうなものは展示
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - ネット対応。Photon Realtime用の送受信クラスの作成
+  - 参考展示？
+- GDevelopシューティング
+  - ゲームループができたら、展示
 
 
 ### インストラクションカードの作成
