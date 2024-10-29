@@ -48,9 +48,47 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 後期4週目
+## 後期5週目
 
 ### 予定
+- 展示要件
+  - ゲームオーバーやクリアをしたら、リスタートできるようにする
+  - リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
+  - 現場に人がいなくても、操作できる状態にする
+- すい～つ
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - できたものの統合
+- スゴロク
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+- 対戦FPS
+- Wolf Editor戦闘ゲーム
+- 瑠璃港
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+- GDevelopシューティング
+  - ゲームループができたら、展示
+
+
+### インストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+  - A4カラー or A3カラーの横 1ページ
+  - アクリルスタンドで立てる(A4縦)か、モニターに貼る(A3横)
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+  - PowerPointを使って、A4の縦方向に設定する例。それぞれ、作りたいカードにあわせて読み替える
+    - デザインタブに切り替え
+    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
+    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
+- 実行ファイルをビルドして、以下の要領でコピーしておく
+  - `X:\2024年\ゲーム学科\gp2\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
+  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
+  - コピーしたものを、ほかのPCから実行できるか確認する
+
+
+## 後期4週目
+
+### 内容
 - 木曜日に進捗確認予定
   - ゲームオーバーやクリアをしたら、リスタートできるようにする
   - リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
@@ -78,21 +116,6 @@
 - GDevelopシューティング
   - ゲームループができたら、展示
 
-
-### インストラクションカードの作成
-- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
-  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
-  - A4カラー or A3カラーの横 1ページ
-  - アクリルスタンドで立てる(A4縦)か、モニターに貼る(A3横)
-  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
-  - PowerPointを使って、A4の縦方向に設定する例。それぞれ、作りたいカードにあわせて読み替える
-    - デザインタブに切り替え
-    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
-    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
-- 実行ファイルをビルドして、以下の要領でコピーしておく
-  - `X:\2024年\ゲーム学科\gp2\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
-  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
-  - コピーしたものを、ほかのPCから実行できるか確認する
 
 
 ## 後期3週目
