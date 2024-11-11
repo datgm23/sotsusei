@@ -50,6 +50,11 @@
 
 ## 後期6週目
 
+### 成果共有
+- [技術書典17. Godot Engine研究ノート２](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=esuWeMGXWGvWrMhCyYw9TL)
+- [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
+- [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
+
 ### 予定
 
 - 展示データとプロジェクトの提出
