@@ -72,6 +72,16 @@
       - 圧縮したzipファイルを`Z:\2024\student\gp2\DATフェスタ展示版プロジェクト一式`フォルダーにコピー
   - あわせてこちらを参照→[企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+### プロジェクトの提出状況
+
+- [x] 堕落箱
+- [ ] 瑠璃港
+- [ ] MegaWave
+- [x] 速さ比べ
+- [x] すい～つきんぐだむ
+- [ ] たいまそ
+
+
 
 ## 後期5週目
 
