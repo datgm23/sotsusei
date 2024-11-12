@@ -77,11 +77,11 @@
 [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 
 - [x] 堕落箱
-- [ ] 瑠璃港
+- [x] 瑠璃港
 - [ ] MegaWave
 - [x] 速さ比べ
 - [x] すい～つきんぐだむ
-- [ ] たいまそ
+- [x] たいまそ
 
 
 
