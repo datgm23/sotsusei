@@ -58,7 +58,7 @@
 ### 予定
 
 - 展示データとプロジェクトの提出
-- 講評
+- [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
 - Web公開に向けて、今後の方針の検討
 
 ## 後期5週目
