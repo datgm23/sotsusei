@@ -62,6 +62,7 @@
   - インストカードのデータも、同じフォルダーへコピーする
 - Web公開に向けて、今後の方針の検討
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
 - プロジェクトの提出
   - Unityの場合
     - GitHubにコミットして、プッシュ
