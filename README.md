@@ -58,8 +58,18 @@
 ### 予定
 
 - 展示データとプロジェクトの提出
-- [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
 - Web公開に向けて、今後の方針の検討
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+- プロジェクトの提出
+  - Unityの場合
+    - GitHubにコミットして、プッシュ
+    - dat-festaというブランチを作成して、プッシュ
+    - 教員にプロジェクトを共有していなければ、共有
+    - Unity以外の場合
+      - プロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
+      - 圧縮したzipファイルを`Z:\2024\student\gp2\DATフェスタ展示版プロジェクト一式`フォルダーにコピー
+  - あわせてこちらを参照→[企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+
 
 ## 後期5週目
 
