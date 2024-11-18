@@ -48,6 +48,23 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期7週目
+
+### 話題
+- [CyberAgent. 3days ゲーム開発型インターンシップ 「プロトスプリントリーグ」](https://cyberagent.connpass.com/event/336618/)
+
+### 予定
+
+- ブラッシュアップ内容の確認と作業
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - 対戦FPS
+  - Wolf Editor戦闘ゲーム
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+
+
 ## 後期6週目
 
 ### 成果共有
@@ -55,7 +72,7 @@
 - [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
 - [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
-### 予定
+### 内容
 
 - 展示データとプロジェクトの提出
   - 実行ファイル一式を`X:\2024年\ゲーム学科\gp2\DATフェスタ実行ファイル`内に、作品フォルダーを作成して、コピーする
@@ -79,7 +96,7 @@
 
 - [x] 堕落箱
 - [x] 瑠璃港
-- [ ] MegaWave
+- [x] MegaWave
 - [x] 速さ比べ
 - [x] すい～つきんぐだむ
 - [x] たいまそ
