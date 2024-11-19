@@ -56,8 +56,8 @@
 ### 予定
 
 - 11/21
-  - NPC
-  - 実装例
+  - NPCの検討
+  - トップビュー対戦ゲームの検討
 - 完成させて、公開を目指す
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
