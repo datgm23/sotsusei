@@ -55,6 +55,7 @@
 
 ### 予定
 
+- 完成させて、公開を目指す
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
   - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
