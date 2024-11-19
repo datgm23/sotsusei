@@ -58,6 +58,9 @@
 - 11/21
   - NPCの検討
   - トップビュー対戦ゲームの検討
+    - 上下左右に移動
+    - 2種類の範囲攻撃を持つ
+    - 攻撃は、入れ替え可能
 - 完成させて、公開を目指す
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
