@@ -48,6 +48,29 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期8週目
+
+### 予定
+
+- トップビュー対戦ゲームの検討
+  - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+  - 上下左右に移動
+  - 2種類の範囲攻撃を持つ
+  - 攻撃は、フィールド内のアイテムで持ち替え可能
+  - HPあり(実装するかは未定)
+- 完成させて、公開を目指す
+- ブラッシュアップ内容の確認と作業
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+    - 現状の動きを整理して、ネット対応
+  - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
+  - [すいーつきんぐだむ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+
+
 ## 後期7週目
 
 ### 話題
@@ -57,11 +80,6 @@
 
 - 11/21
   - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
-  - トップビュー対戦ゲームの検討
-    - 上下左右に移動
-    - 2種類の範囲攻撃を持つ
-    - 攻撃は、フィールド内のアイテムで持ち替え可能
-    - HPあり(実装するかは未定)
 - 完成させて、公開を目指す
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
