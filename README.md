@@ -56,7 +56,7 @@
 ### 予定
 
 - 11/21
-  - NPCの検討
+  - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
   - トップビュー対戦ゲームの検討
     - 上下左右に移動
     - 2種類の範囲攻撃を持つ
