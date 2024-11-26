@@ -53,7 +53,9 @@
 ### 予定
 
 - トップビュー対戦ゲームの検討
-  - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+  - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
+    - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
+    - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
   - 上下左右に移動
   - 2種類の範囲攻撃を持つ
   - 攻撃は、フィールド内のアイテムで持ち替え可能
