@@ -50,6 +50,10 @@
 
 ## 後期8週目(11/26, 28)
 
+### 話題
+
+- [o8que. Photon Fusionで始めるオンラインゲーム開発【Unity】](https://zenn.dev/o8que/books/photon-fusion)
+
 ### 予定
 
 - トップビュー対戦ゲームの検討
