@@ -53,6 +53,8 @@
 ### 話題
 
 - [o8que. Photon Fusionで始めるオンラインゲーム開発【Unity】](https://zenn.dev/o8que/books/photon-fusion)
+- [LIGHT11. Unity謹製ビヘイビアツリー「Unity Behavior」の使い方まとめ](https://light11.hatenadiary.com/entry/2024/11/27/193021)
+- [Godot Meetup Tokyo Vol.3](https://godot-jp.connpass.com/event/332052/)
 
 ### 予定
 
