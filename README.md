@@ -48,14 +48,7 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-
-## 後期8, 9週目(11/26, 28, 12/2, 5)
-
-### 話題
-
-- [o8que. Photon Fusionで始めるオンラインゲーム開発【Unity】](https://zenn.dev/o8que/books/photon-fusion)
-- [LIGHT11. Unity謹製ビヘイビアツリー「Unity Behavior」の使い方まとめ](https://light11.hatenadiary.com/entry/2024/11/27/193021)
-- [Godot Meetup Tokyo Vol.3](https://godot-jp.connpass.com/event/332052/)
+## 後期10週目(12/10)
 
 ### 予定
 
@@ -63,10 +56,6 @@
   - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
     - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
     - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
-  - 上下左右に移動
-  - 2種類の範囲攻撃を持つ
-  - 攻撃は、フィールド内のアイテムで持ち替え可能
-  - HPあり(実装するかは未定)
 - 完成させて、公開を目指す
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
@@ -80,12 +69,34 @@
   - [すいーつきんぐだむ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
 
 
+
+## 後期8, 9週目(11/26, 28, 12/2, 5)
+
+### 話題
+
+- [o8que. Photon Fusionで始めるオンラインゲーム開発【Unity】](https://zenn.dev/o8que/books/photon-fusion)
+- [LIGHT11. Unity謹製ビヘイビアツリー「Unity Behavior」の使い方まとめ](https://light11.hatenadiary.com/entry/2024/11/27/193021)
+- [Godot Meetup Tokyo Vol.3](https://godot-jp.connpass.com/event/332052/)
+
+### 内容
+
+- トップビュー対戦ゲームの検討
+  - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
+    - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
+    - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+  - 上下左右に移動
+  - 2種類の範囲攻撃を持つ
+  - 攻撃は、フィールド内のアイテムで持ち替え可能
+  - HPあり(実装するかは未定)
+
+
 ## 後期7週目
 
 ### 話題
+
 - [CyberAgent. 3days ゲーム開発型インターンシップ 「プロトスプリントリーグ」](https://cyberagent.connpass.com/event/336618/)
 
-### 予定
+### 内容
 
 - 11/21
   - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
