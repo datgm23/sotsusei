@@ -53,6 +53,7 @@
 ### 予定
 
 - トップビュー対戦ゲーム-試遊版としてまとめる
+  - [NPC対戦デモ版](NPC/index.html)
   - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
     - [NPC対戦試遊版：開発ログ](https://docs.google.com/document/d/19khC7tt2ExSo8d48NLtufNZg8HpPlBQGysFmRnAUNJc/)
     - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
