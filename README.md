@@ -48,9 +48,29 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 後期10週目(12/10)
+## 後期11週目(12/17)
 
 ### 予定
+
+- トップビュー対戦ゲーム-試遊版としてまとめる
+  - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
+    - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
+    - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+- 完成させて、公開を目指す
+- ブラッシュアップ内容の確認と作業
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+    - 現状の動きを整理して、ネット対応
+  - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
+  - [すいーつきんぐだむ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+
+## 後期10週目(12/10)
+
+### 内容
 
 - トップビュー対戦ゲームの検討
   - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
