@@ -50,6 +50,10 @@
 
 ## 後期11週目(12/17)
 
+### 話題
+
+- [GitHub Copilot free](https://github.com/datgm24/design/blob/main/try-github-copilot.md)
+
 ### 予定
 
 - トップビュー対戦ゲーム-試遊版としてまとめる
