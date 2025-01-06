@@ -48,13 +48,29 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期12週目(1/7)
+
+### 予定
+
+- 現状の共有と、仕上げ作業の確認
+- ブラッシュアップ内容の確認と作業
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
+  - [すいーつきんぐだむ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+
+
 ## 後期11週目(12/17)
 
 ### 話題
 
 - [GitHub Copilot free](https://github.com/datgm24/design/blob/main/try-github-copilot.md)
 
-### 予定
+### 内容
 
 - トップビュー対戦ゲーム-試遊版としてまとめる
   - [NPC対戦デモ版](https://datgm23.github.io/sotsusei/NPC/)
