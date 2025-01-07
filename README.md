@@ -62,7 +62,7 @@
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
   - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
   - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
-  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [MageWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
@@ -90,7 +90,7 @@
   - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
     - 現状の動きを整理して、ネット対応
   - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
-  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [MageWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
@@ -110,7 +110,7 @@
   - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
     - 現状の動きを整理して、ネット対応
   - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
-  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [MageWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
@@ -153,7 +153,7 @@
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
   - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
   - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
-  - [MegaWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [MageWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [アンデッドDAT](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
   - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
@@ -190,7 +190,7 @@
 
 - [x] 堕落箱
 - [x] 瑠璃港
-- [x] MegaWave
+- [x] MageWave
 - [x] 速さ比べ
 - [x] すい～つきんぐだむ
 - [x] たいまそ
