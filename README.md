@@ -52,6 +52,13 @@
 
 ### 予定
 
+- 作品ページ用の素材作成
+  - [2023年度生 卒業制作作品集](https://datgm23.github.io/works/)
+  - [作成の手引き](https://github.com/datgm23/sotsusei/blob/main/make_web.md)
+  - 実行ファイルは圧縮して100MB以下にする。超える場合はunityroom、ふりーむ、itch.ioなどのサイトへ公開したURLを報告するか、実行ファイルは不掲載とする
+  - 参考 [2022年度生 卒業制作作品集](https://datgm22.github.io/works/)
+
+
 - 現状の共有と、仕上げ作業の確認
 - ブラッシュアップ内容の確認と作業
   - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
