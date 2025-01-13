@@ -53,6 +53,7 @@
 ### 話題
 
 - [Ryo Shimizu. 最近、AIが長年の悩みを次々と解決してしまう](https://wirelesswire.jp/2025/01/87946/)
+- [よけとる 設計と実装練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
 
 ### 予定
 
