@@ -48,7 +48,11 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 後期12週目(1/7)
+## 後期12週目(1/7, 14)
+
+### 話題
+
+- [Ryo Shimizu. 最近、AIが長年の悩みを次々と解決してしまう](https://wirelesswire.jp/2025/01/87946/)
 
 ### 予定
 
