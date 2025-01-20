@@ -48,6 +48,29 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
+## 後期14週目(1/21)
+
+### 予定
+
+- 作品ページを完成させる
+  - [2023年度生 卒業制作作品集](https://datgm23.github.io/works/)
+  - [作成の手引き](https://github.com/datgm23/sotsusei/blob/main/make_web.md)
+    - 実行ファイルは圧縮して100MB以下にする。超える場合はunityroom、ふりーむ、itch.ioなどのサイトへ公開したURLを報告するか、実行ファイルは不掲載とする
+  - 参考 [2022年度生 卒業制作作品集](https://datgm22.github.io/works/)
+- 現状の共有と、仕上げ作業の確認
+- ブラッシュアップ内容の確認と作業
+  - [講評](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/)
+  - [お金くれ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [すごろく](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [MageWave](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [UNDERTALE的](https://docs.google.com/document/d/1pA95zbBrQTwxEOtX-YKrLjY_YzTjTvvG1WKl2_l8StA/)
+  - [たいまそ](https://docs.google.com/document/d/1CSu05akxlNllvSUz9ywhMu7rOnWIQmj3TYkK81uSzkQ/edit?pli=1&tab=t.0)
+  - [瑠璃港仕上げ](https://docs.google.com/document/d/15UAOZXuh73SjbBEo0ASFZBc-nJ0frlDyb2s90ymlTgM/)
+  - [すいーつきんぐだむ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - [SPACESHIP](https://docs.google.com/document/d/1KZlcg5prVxprAiJACn5r6IaMRtUnEjhUhBncJV4N1rw/)
+
+
+
 ## 後期12, 13週目(1/7, 14)
 
 ### 話題
@@ -55,7 +78,7 @@
 - [Ryo Shimizu. 最近、AIが長年の悩みを次々と解決してしまう](https://wirelesswire.jp/2025/01/87946/)
 - [よけとる 設計と実装練習](https://am1tanaka.github.io/YoketoruPracticeDocs/index.html)
 
-### 予定
+### 内容
 
 - 作品ページ用の素材作成
   - [2023年度生 卒業制作作品集](https://datgm23.github.io/works/)
