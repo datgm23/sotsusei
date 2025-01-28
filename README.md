@@ -48,9 +48,17 @@
   - [Re：verser 素材制作依頼ドキュメント](https://docs.google.com/document/d/1xunOf4-eHzEbAIrNkNPibEED8eyl5R2R/)
   - [Re:verser発注素材ファイルリスト](https://docs.google.com/spreadsheets/d/1_QdKumE0ybjPNGRuGhE27fn0l8hu-s5lf7fQ9ukTbZE/)
 
-## 後期14週目(1/21, 23)
+## 後期15週目(1/28, 30)
 
 ### 予定
+
+- データのバックアップ
+- ブラッシュアップ作業
+- 総括
+
+## 後期14週目(1/21, 23)
+
+### 内容
 
 - 作品ページを完成させる
   - [2023年度生 卒業制作作品集](https://datgm23.github.io/works/)
